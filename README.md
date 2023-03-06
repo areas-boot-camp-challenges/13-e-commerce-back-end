@@ -2,6 +2,8 @@
 ## Description
 An API for a back-end e-Commerce site.
 
+ To see a demo, [watch the walkthrough video](https://drive.google.com/file/d/1a9Df6rn8M3VSGJq30IEO1XzveNp4nrxY/view).
+
 <!-- if appropriate, add a screenshot ![image-alt](image-url) -->
 
 ![GNU GPLv3 License Badge](https://img.shields.io/github/license/areas-boot-camp-challenges/13-e-commerce-back-end)
